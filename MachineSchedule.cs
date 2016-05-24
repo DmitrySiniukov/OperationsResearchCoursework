@@ -41,7 +41,7 @@ namespace OptimalSchedulingProblem
 		/// </summary>
 		/// <param name="machine"></param>
 		public MachineSchedule(Machine machine)
-		: this(machine, 0m, new LinkedList<Task>())
+		: this(machine, decimal.MaxValue, new LinkedList<Task>())
 		{
 		}
 
@@ -49,8 +49,19 @@ namespace OptimalSchedulingProblem
 		/// Default constructor
 		/// </summary>
 		public MachineSchedule()
-		: this(null, 0m, new LinkedList<Task>())
+		: this(null, decimal.MaxValue, new LinkedList<Task>())
 		{
+		}
+
+
+		/// <summary>
+		/// 
+		/// </summary>
+		/// <param name="machine"></param>
+		/// <returns></returns>
+		public virtual MachineSchedule Create(Machine machine)
+		{
+			return new MachineSchedule(machine);
 		}
 	}
 }

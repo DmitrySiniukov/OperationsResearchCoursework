@@ -1,0 +1,6 @@
+c:\users\d1mas\onedrive\documents\visual studio 2015\Projects\OptimalSchedulingProblem\OptimalSchedulingProblem\bin\Debug\OptimalSchedulingProblem.exe.config
+C:\Users\d1mas\OneDrive\Documents\Visual Studio 2015\Projects\OptimalSchedulingProblem\OptimalSchedulingProblem\bin\Debug\OptimalSchedulingProblem.exe
+C:\Users\d1mas\OneDrive\Documents\Visual Studio 2015\Projects\OptimalSchedulingProblem\OptimalSchedulingProblem\bin\Debug\OptimalSchedulingProblem.pdb
+C:\Users\d1mas\OneDrive\Documents\Visual Studio 2015\Projects\OptimalSchedulingProblem\OptimalSchedulingProblem\obj\Debug\OptimalSchedulingProblem.csprojResolveAssemblyReference.cache
+C:\Users\d1mas\OneDrive\Documents\Visual Studio 2015\Projects\OptimalSchedulingProblem\OptimalSchedulingProblem\obj\Debug\OptimalSchedulingProblem.exe
+C:\Users\d1mas\OneDrive\Documents\Visual Studio 2015\Projects\OptimalSchedulingProblem\OptimalSchedulingProblem\obj\Debug\OptimalSchedulingProblem.pdb

@@ -13,12 +13,23 @@
         /// <summary>
         /// Duration
         /// </summary>
-        public decimal Duration { get; set; } 
+        public decimal Duration { get; } 
 
 		/// <summary>
 		/// Deadline
 		/// </summary>
 		public decimal Deadline { get; }
+
+		/// <summary>
+		/// Extreme start time
+		/// </summary>
+		public decimal ExtremeTime
+		{
+			get
+			{
+				return Deadline - Duration;
+			}
+		}
 
 		/// <summary>
 		/// Task name
@@ -35,6 +46,7 @@
 		/// Full constructor
 		/// </summary>
 		/// <param name="id"></param>
+		/// <param name="duration"></param>
 		/// <param name="deadline"></param>
 		/// <param name="name"></param>
 		/// <param name="description"></param>
