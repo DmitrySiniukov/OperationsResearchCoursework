@@ -1,2 +1,2 @@
-This is a course work for Additional sections of Operations Research.
-It solves an optimal scheduling problem for parallel machines and tasks with arbitrary deadlines.
+The course work for Additional Sections of Operations Research.
+The program solves a scheduling problem for parallel machines with same performances and tasks with arbitrary deadlines.
